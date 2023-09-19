@@ -1,0 +1,26 @@
+  input{
+    padding-left: 5px;
+    height: 25px;
+  }
+
+  .btn1{
+    padding: 5px 75px !important;
+  }
+
+  .result{
+    font-size: 14px;
+  }
+
+  .notify{
+    display: none ;
+  }
+
+  .top-div{
+    height: auto;
+    background-color: aquamarine;
+    border-radius: 10px;
+  }
+
+  #color-1{
+    transition: color 0.2s;
+  }
